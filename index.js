@@ -25,7 +25,7 @@ app.use(
   cors({
     origin: [
       "http://localhost:5173",
-      "https://doc-ai-frontend.vercel.app"
+      "https://docxtract-three.vercel.app"
     ],
 
     credentials: true,
